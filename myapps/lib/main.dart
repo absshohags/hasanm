@@ -13,9 +13,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "Flutter Demu",
       theme: ThemeData(
-        primarySwatch: Colors.yellow,
+        // jhghgfhgf f hgfghfhgf
+        primarySwatch: Colors.red,
       ),
       home: const NavigationRails(),
     );
   }
+  // ghjghjgjhghfgfd  gjgjgjg
 }
